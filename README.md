@@ -7,7 +7,9 @@ Add metamask wallet keys
 or use mine
 
 export WEB3_INFURA_PROJECT_ID=7510eac2a754478db6ab9a0474b79276
+
 export ETHERSCAN_TOKEN=YourApiToken
+
 export PRIVATE_KEY="0xbd9653f023c1ea605794be1de957cdf2886045ba5c1d31547c6634bd0c57ac69"
 
 2. Run : source .env
