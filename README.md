@@ -1,18 +1,23 @@
 # Flashloans on AAVE using Brownie
 
-I wrote a code that allows you to borrow millions of dollars of worth of cryptocurrency with no collateral !
+I wrote a code that allows you to borrow millions of dollars of worth of cryptocurrency with no collateral ❕❗ 💰
 
+-
 
+How⁉🧐
 
-How?
+-
 
+Transactions on Ethereum are atomic. As long as the loan is repaid in the same transaction block, users can borrow as much money as they want. If not, the loan fails. Below is the code with instructions. 🐱‍💻
 
+-
 
-Transactions on Ethereum are atomic. As long as the loan is repaid in the same transaction block, users can borrow as much money as they want. If not, the loan fails. Below is the code with instructions.
+Exploit the benefits using arbitrage trade or loan swaps. 💹
 
+-
 
+#ethereumblockchain #smartcontracts #solidity
 
-Exploit the benefits using arbitrage trade or loan swaps.
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Brownie.
