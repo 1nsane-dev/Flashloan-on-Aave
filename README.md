@@ -2,19 +2,15 @@
 
 I wrote a code that allows you to borrow millions of dollars of worth of cryptocurrency with no collateral ❕❗ 💰
 
--
 
 How⁉🧐
 
--
 
 Transactions on Ethereum are atomic. As long as the loan is repaid in the same transaction block, users can borrow as much money as they want. If not, the loan fails. Below is the code with instructions. 🐱‍💻
 
--
 
 Exploit the benefits using arbitrage trade or loan swaps. 💹
 
--
 
 #ethereumblockchain #smartcontracts #solidity
 
@@ -31,23 +27,23 @@ pip install eth-brownie
 ```bash
 pip install eth-brownie
 ```
-1. Make changes to the .env file. 
+- Make changes to the .env file. 
 
 
-i. Add your Infura project ID.
+- Add your Infura project ID.
 
-ii. Add metamask wallet keys.
+- Add metamask wallet keys.
 
 ```python
 export WEB3_INFURA_PROJECT_ID=7510bds2a754478db6ab9a0474b79276 # Add your Infura project.
 export PRIVATE_KEY="0xbd9653f023c1ea608884be1de957cdf2886045ba5c1d31547c6634bd0c57ac69" # Export your private key from metamask.
 ```
-iii. Save the file and run the below code.
+- Save the file and run the below code.
 
 ```bash
 source .env
 ```
-2. Make sure you have DAI coins in your test wallet. (I'm using kovan)
+- Make sure you have DAI coins in your test wallet. (I'm using kovan)
 
 ```bash
 brownie run scripts/deployment_v2.py --network kovan
