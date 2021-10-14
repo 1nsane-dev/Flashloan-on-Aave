@@ -58,5 +58,5 @@ brownie run scripts/run_flash_loan_v2.py --network kovan
 ## Contributing
 Please use Ubuntu LTS for running this code
 
-## Etherscan Transaction Prood
+## Etherscan Transaction Proof
 [$1 Flashloan on Kovan Test Net](https://kovan.etherscan.io/tx/0x746e13689c110a727a629818fb61b7ba3a8babe2b47baf79e9b1c7d7dc5978d8)
