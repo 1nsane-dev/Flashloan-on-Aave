@@ -28,7 +28,9 @@ pip install eth-brownie
 ```
 1. Make changes to the .env file. 
 
+
 i. Add your Infura project ID.
+
 ii. Add metamask wallet keys.
 
 ```python
